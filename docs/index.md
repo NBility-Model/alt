@@ -5,7 +5,7 @@ nav_order: 1
 
 # NBility
 
-![NBility-logo](assets/images/nbility-logo.svg)
+<img src="assets/images/nbility-logo.svg" alt="NBility-logo" style="max-width:400px" />
 
 Het [**NBility-model**](/model) is een gezamenlijk model van de Nederlandse netbeheerders en beschrijft hun business capabilities, bedrijfsobjecten en waardestromen.
 
