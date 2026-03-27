@@ -1,5 +1,7 @@
 ---
 title: Project governance
+parent: Contributing
+nav_order: 20
 ---
 
 # Project governance

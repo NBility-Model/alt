@@ -1,6 +1,7 @@
 ---
 title: User manual and workshops
-nav_order: 100
+parent: Contributing
+nav_order: 30
 ---
 
 # User manual and workshops

@@ -1,5 +1,7 @@
 ---
 title: Design guidelines
+parent: Contributing
+nav_order: 20
 ---
 
 # Design guidelines

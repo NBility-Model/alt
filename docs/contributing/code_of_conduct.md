@@ -1,6 +1,7 @@
 ---
 title: Code of conduct
-nav_order: 1
+parent: Contributing
+nav_order: 10
 ---
 
 # Code of Conduct

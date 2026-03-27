@@ -1,6 +1,7 @@
 ---
 title: Release and support
-nav_order: 200
+parent: Contributing
+nav_order: 40
 ---
 
 # Release and support
