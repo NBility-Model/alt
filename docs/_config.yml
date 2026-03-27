@@ -22,3 +22,7 @@ aux_links:
     - "https://github.com/NBility-Model/nbility-model.github.io"
   "<img src=\"assets/images/favicon.png\" style=\"height:1rem; margin-right:0.5em; margin-bottom:0.1rem\" />Modellen":
     - "https://modellen.netbeheernederland.nl"
+
+nav_external_links:
+  - title: Model
+    url: https://nbility.netbeheernederland.nl/model/
