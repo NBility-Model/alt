@@ -10,8 +10,8 @@ plugins:
 search_enabled: false
 
 color_scheme: nbnl
-logo: "/assets/images/logo.svg"
-favicon_ico: "/assets/images/favicon.png"
+logo: "assets/images/logo.svg"
+favicon_ico: "assets/images/favicon.png"
 
 callouts:
   note:
