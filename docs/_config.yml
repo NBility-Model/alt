@@ -2,6 +2,8 @@ title: NBility
 
 remote_theme: just-the-docs/just-the-docs
 
+baseurl: /alt
+
 plugins:
   - jekyll-remote-theme
 

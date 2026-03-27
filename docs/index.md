@@ -29,10 +29,6 @@ Bij de release van NBility worden een aantal bestanden geleverd, deze staan hier
 | [Model NBility v2.3 (pptx)](https://www.edsn.nl/wp-content/uploads/2025/05/NBility-Model-2.3.pptx) | Het NBility-model in PowerPoint |
 | [Model NBility v2.3 (xlsx)](https://www.edsn.nl/wp-content/uploads/2025/05/NBility-2.3-Excell.xlsx) | Het NBility-model in Excel |
 
-## English version NBility
-
-NBility is a capability model for a grid operator. It has been created to simplify working together within the utility sector and with the suppliers/advisors of the grid operators. The NBilty model exists of a capability model, a related business object model and a value stream model. A PowerPoint version of the model in English is available here: [**NBility Model 2.3 – English**](https://www.edsn.nl/wp-content/uploads/2025/02/NBility-Model-2.3-English.pptx). In the Excel file above, the capabilities are described in English (column F).
-
 ## Organisatie
 
 Het NBility-model wordt onderhouden door de gezamenlijke netbeheerders. Een User Group waar gebruikers van NBility ervaringen kunnen uitwisselen en suggesties kunnen doen voor verbetering, wordt opgericht.
@@ -54,4 +50,4 @@ Hier staan de documenten van voorgaande NBility versies.
 Heb je aanvullende vragen of suggesties over de inhoud van het NBility model? Of wil je lid worden van de NBility User Group? Vul dan onderstaand contactformulier in.
 
 {: .note }
-TODO: Formulier
+TODO: Contactformulier

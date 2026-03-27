@@ -7,13 +7,7 @@ nav_order: 10
 
 ![NBility logo](assets/images/nbility-logo.webp)
 
-NBility is a comprehensive capability model designed for grid operators. It was developed to streamline collaboration within the utility sector and with the suppliers and advisors of grid operators. The NBility model comprises three key components:
-
-* A capability model
-* A related object model
-* A value stream model
-
-The NBility model is actively maintained by the Dutch Distribution System Operators. Additionally, a User Group is being established to facilitate the exchange of experiences among users and to gather suggestions for future improvements.
+NBility is a capability model for a grid operator. It has been created to simplify working together within the utility sector and with the suppliers/advisors of the grid operators. The NBilty model exists of a capability model, a related business object model and a value stream model. A PowerPoint version of the model in English is available here: [**NBility Model 2.3 – English**](https://www.edsn.nl/wp-content/uploads/2025/02/NBility-Model-2.3-English.pptx). In the Excel file above, the capabilities are described in English (column F).
 
 ## Viewing the Model
 
